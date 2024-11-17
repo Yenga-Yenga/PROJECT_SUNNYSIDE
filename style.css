@@ -225,6 +225,7 @@ header {
     width: 100%;
     max-width: 380px;
     padding: 20px;
+
 }
 
 .service-h3 {
@@ -385,7 +386,7 @@ footer {
         height: auto;
     }
     .about-content {
-        padding: 60px;
+        padding: 0;
         text-align: left;
     }
     .about-link { margin-left: 10px;}
